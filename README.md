@@ -1,6 +1,6 @@
-# Google翻译IP检查工具
+# GoogleTranslateIpCheck
 
-这个项目是基于GoogleTranslateIpCheck的增强版本，主要添加了系统托盘支持、定时检查、开机自启等功能，让使用更加方便。
+这个项目是基于GoogleTranslateIpCheck的Python版本，主要添加了系统托盘支持、定时更新Ip、开机自启等功能，让使用更加方便。
 
 
 ## 主要功能
