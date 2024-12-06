@@ -1,0 +1,4 @@
+aiohttp==3.9.1
+Pillow==10.1.0
+pystray==0.19.5
+pyinstaller==6.3.0
